@@ -58,11 +58,14 @@ Accuracy: 100.00%
 git clone https://github.com/Isma3ilovitch/neural-network-from-scratch.git
 cd neural-network-from-scratch
 ```
-##💡 Learning Goal
+---
+## 💡 Learning Goal
 This project is educational. It’s ideal for understanding the inner workings of neural networks without relying on black-box libraries.
-##📜 License
+---
+## 📜 License
 MIT License — feel free to use, modify, and share!
-##🙌 Acknowledgments
+---
+## 🙌 Acknowledgments
 Inspired by Andrew Ng’s Deep Learning course, and CS50AI XOR example.
 
 
